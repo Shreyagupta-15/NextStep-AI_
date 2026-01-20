@@ -48,3 +48,5 @@ React Markdown for content rendering
 Recharts for analytics visualization
 Date-fns for date manipulation
 Sonner for beautiful notifications
+Date-fns for date manipulation
+Sonner for beautiful notifications
